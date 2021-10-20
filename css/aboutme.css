@@ -1,0 +1,41 @@
+
+
+.top-container2{
+  position: relative;
+  padding: 5em 0 3em;
+  max-width: 1400px;
+  width: 90%;
+  margin: 0 auto;
+  display: block;
+  overflow: hidden;
+  /* min-width:50%; */
+}
+.image-holder{
+    text-align:center;
+    position: relative;
+    /* float:left; */
+    overflow:hidden;
+    width:500px;
+    height:auto;
+    /* bottom:120px; */
+    display:inline-block;
+    overflow: hidden;
+    border-radius: 20px;
+
+}
+.my-profile{
+  position: relative;
+  width:100%;
+  height:auto;
+  transform:rotate(-90deg);
+  background-color:#fbeddf;
+}
+.content{
+    display:inline-block;
+    position: relative;
+    width:500px;
+    margin-left:50px;
+    text-align:left;
+    font-size:0.90rem;
+    /* margin-top:50px; */
+}
